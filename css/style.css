@@ -1,0 +1,35 @@
+.header {
+    background-color: #FF7640;
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+}
+
+.footer {
+    background-color: #A62F00;
+    width: 100%;
+    float: bottom;
+    height: 20px;  
+}
+
+.container {
+    overflow: hidden;
+}
+
+.menu-left {
+    background: #FF9B73;
+    float: left;
+    width: 300px;
+    
+}
+
+.content {
+    background: #FF4900;
+    margin: 0px 200px 0px 300px;
+}
+
+.menu-right {
+    background: #FF9B73;
+    float: right;
+    width: 200px;
+}
